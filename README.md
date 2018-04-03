@@ -85,6 +85,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
+* [push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE
 * [Möan.lua](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
